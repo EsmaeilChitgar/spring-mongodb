@@ -2,11 +2,10 @@ package com.example.mongodb;
 
 import com.example.mongodb.model.*;
 import com.example.mongodb.repository.PlaceRepository;
-import com.example.mongodb.repository.ProductRepository;
 import com.example.mongodb.repository.StudentRepository;
 import com.example.mongodb.service.ProductService;
-import com.example.mongodb.service.UserService;
 import com.example.mongodb.service.UserAggregationService;
+import com.example.mongodb.service.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;

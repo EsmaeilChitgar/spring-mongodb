@@ -1,8 +1,8 @@
 package com.example.mongodb.controller;
 
 import com.example.mongodb.model.User;
-import com.example.mongodb.service.UserService;
 import com.example.mongodb.service.UserAggregationService;
+import com.example.mongodb.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
